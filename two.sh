@@ -1,1 +1,1 @@
-echo Hello
+cat one.txt
